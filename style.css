@@ -284,6 +284,7 @@ span{
     height: 40px;
     border: none;
     background-color: transparent;
+    outline: none;
 }
 .csebutton{
     width: 120px;
